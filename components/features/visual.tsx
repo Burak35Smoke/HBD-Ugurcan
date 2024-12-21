@@ -50,7 +50,7 @@ export const MusicVisual = ({ id }: Props) => {
 export const OtherVisual = ({ id }: Props) => {
   return (
     <Visual id={id}>
-      <img src="/img2.jpg" />
+      <img src="/img5.jpg" />
     </Visual>
   );
 };
