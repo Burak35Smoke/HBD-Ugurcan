@@ -13,8 +13,8 @@ const playfair = Playfair_Display({
 ;
 
 export const metadata = {
-  title: "My Apology to Alicia",
-  description: "A heartfelt apology website",
+  title: "HBD Uğurcan",
+  description: "Uğurcan Anais",
 };
 
 export default function RootLayout({
